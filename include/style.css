@@ -1,0 +1,14 @@
+body
+{ 
+font: 100%/120% Trebuchet MS, Lucida Grande, Tahoma, Myriad Pro, Arial, Helvetica, sans-serif;
+}
+
+textarea
+{
+vertical-align:top;
+font: 100%/120% Verdana, Arial, Helvetica, sans-serif;
+}
+table
+{
+table-layout:fixed;
+}
